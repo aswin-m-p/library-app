@@ -11,6 +11,9 @@
     "mongo-express": "^1.0.0-alpha.4",
     "mongoose": "^5.7.12"
   },
+  "engines": {
+    "node": "16.13.1"
+ },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
