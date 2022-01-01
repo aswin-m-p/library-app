@@ -1,0 +1,56 @@
+Error Hunt Directions 
+
+
+
+Part #1- Essential - Before Running. Score -5 points 
+
+
+
+1. You can find me if you look at the starting point. 
+
+2. I am a third party module who is installed and have an important role. I will prevent your application from running. Entire part of myself is missing.
+
+3. I am a local (user defined) module. I am checking whether you can distinguish location name with my name. 
+
+4. I appear as a module. I am just an array of Objects. Someone didn't call my name properly.
+
+5. I will be a sick joke when you run this application.
+
+
+
+Part #2 - Improvisation and Updating  - 5 points 
+
+
+
+6.  Change me , first navbar will tell. I am an array of object which can be modularised and kept somewhere as a static data.
+
+7.  I took care when someone else tries to access this server for resource sharing. I am not being currently used. Add me if you find me useful.
+
+8. I am a form in one of the ejs page. When I send data, backend always miss one. Silly spelling Error
+
+9. I am Update and Delete operation of this project. Even though am working perfectly, am not being implemented with proper method. 
+
+10. I am a deprecated method who welcomes a new user in this project. You know better now.
+
+
+
+Part #3 - Host this Application in Heroku platform  - 5 points 
+
+
+
+You need to modify the project before hosting. Make the changes mindfully
+
+
+
+Rules and Regulations : 
+
+1. First five points have to be cracked or else project won't run. Add a comment where you make changes // Part #1 Point 1 
+
+2. Submit your source code as a GitHub link . Evaluation of Part #1 and Part #2 will be based on Github Score code Inspection.
+
+3. Part #3 is successfully hosting your working Project and submitting the hosted link. 
+
+
+
+Happy Hunting ! 
+199.36.158.100
