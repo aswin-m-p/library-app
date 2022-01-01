@@ -55,7 +55,7 @@ app.get('/',function(req,res){
 
 
 
-
-app.listen(5000,()=>{
-    console.log("Server Ready on 5000");     //change console log message from 3000 to 5000 from  part1 point 5
+const PORT = process.env.PORT || 3000;
+app.listen(PORT,()=>{
+    console.log("Server Ready on" +PORT);     //change port from 5000 to 3000  part1 point 5
 });
