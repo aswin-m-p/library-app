@@ -56,6 +56,6 @@ app.get('/',function(req,res){
 
 
 
-app.listen(5000,()=>{
+app.listen(80,()=>{
     console.log("Server Ready on 5000");     //change console log message from 3000 to 5000 from  part1 point 5
 });
